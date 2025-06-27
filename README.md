@@ -29,11 +29,14 @@ AI Product Manager & Developer Advocate at [APARAVI](https://aparavi.com), speci
 ### [Enterprise AI Challenge](https://github.com/HendrikKrack/enterpriseAiChallenge)
 AI-powered enterprise chatbots using Generative AI, Weaviate, and Hugging Face for productivity and workflow optimization.
 
-### [Weaviate Hack Night](https://github.com/HendrikKrack/WeviateHackNight) 
+### [Weaviate Hack Night](https://github.com/HendrikKrack/GithubHackNight) 
 Vector database solutions and AI-powered semantic search implementations.
 
-### [Compound AI Agents](https://github.com/HendrikKrack/CompoundAiAgentsHackathon)
-Advanced AI agent architectures for enterprise automation and decision-making.
+### [Compound AI Agents](https://github.com/HendrikKrack/my-portfolio)
+A modern, interactive portfolio website built with Three.js, inspired by Bruno Simon's design.
+
+### [Customer Support Chatbot](https://github.com/HendrikKrack/AparaviCustomerSupport)
+Building an Intelligent Customer Support Chatbot for Aparavi
 
 ## 💻 Tech Stack
 
